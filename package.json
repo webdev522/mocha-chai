@@ -1,0 +1,14 @@
+{
+  "name": "mocha-chai",
+  "version": "1.0.0",
+  "description": "Simple app for testing",
+  "main": "app.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
